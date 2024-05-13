@@ -9,10 +9,10 @@
 
 <channel>
 	<title>享受咖啡 咖啡評價王</title>
-	<atom:link href="http://hankeringwinni.urlaw.com.tw/feed/?simply_static_page=58" rel="self" type="application/rss+xml" />
+	<atom:link href="http://192.168.68.79/feed/?simply_static_page=106" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sun, 12 May 2024 15:54:50 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 May 2024 16:02:15 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -43,9 +43,7 @@
 
 
 
-<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
-https://savingsbot.luxurai.com/product?pid=6364ede96de60a08d725c8d5
-</div></figure>
+<p><a href="https://savingsbot.luxurai.com/product?pid=6364ede96de60a08d725c8d5">https://savingsbot.luxurai.com/product?pid=6364ede96de60a08d725c8d5</a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2024/05/12/%e8%a5%bf%e9%9b%85%e5%9c%96-%e9%bb%83%e9%87%91%e6%b7%ba%e7%84%99%e6%8b%bf%e9%90%b5%e5%bf%83%e5%be%97%e8%a9%95%e5%83%b9%e8%88%87%e6%b3%a8%e6%84%8f%e4%ba%8b%e9%a0%85/feed/</wfw:commentRss>
@@ -74,26 +72,6 @@ https://savingsbot.luxurai.com/product?pid=6364ede96de60a08d725c8d5
 					
 					<wfw:commentRss>/2024/05/12/%e6%b9%9b%e7%9b%a7%e5%92%96%e5%95%a1-x2-%e7%8d%a8%e5%ae%b6%e6%89%8b%e6%b2%96%e7%b2%be%e5%93%81%e5%92%96%e5%95%a1%e5%bf%83%e5%be%97%e8%a9%95%e5%83%b9%e8%88%87%e6%b3%a8%e6%84%8f%e4%ba%8b%e9%a0%85/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>網站第一篇文章</title>
-		<link>/2024/05/12/hello-world/</link>
-					<comments>/2024/05/12/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[poioit]]></dc:creator>
-		<pubDate>Sun, 12 May 2024 15:30:43 +0000</pubDate>
-				<category><![CDATA[未分類]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
-
-					<description><![CDATA[歡迎使用 WordPress。這是這個網站的第一篇文章，試試&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>歡迎使用 WordPress。這是這個網站的第一篇文章，試試為這篇文章進行編輯或直接刪除，然後開始撰寫新文章！</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/2024/05/12/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
