@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/post-sitemap.xml</loc>
+		<loc>https://hankeringwinni.github.io/post-sitemap.xml</loc>
 		<lastmod>2024-05-13T05:10:26+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
+		<loc>https://hankeringwinni.github.io/page-sitemap.xml</loc>
 		<lastmod>2024-05-12T15:30:43+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/category-sitemap.xml</loc>
+		<loc>https://hankeringwinni.github.io/category-sitemap.xml</loc>
 		<lastmod>2024-05-13T05:10:26+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/author-sitemap.xml</loc>
+		<loc>https://hankeringwinni.github.io/author-sitemap.xml</loc>
 		<lastmod>2024-05-17T14:56:00+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
