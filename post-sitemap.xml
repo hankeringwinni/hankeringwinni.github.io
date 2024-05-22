@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-05-21T16:59:24+00:00</lastmod>
+		<lastmod>2024-05-22T14:35:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/2024/05/13/oklao-%e6%ad%90%e5%ae%a2%e4%bd%ac-%e6%ad%90%e5%ae%a2%e4%bd%ac%e5%95%86%e5%8b%99%e8%89%99%e5%bf%83%e5%be%97%e8%a9%95%e5%83%b9%e8%88%87%e6%b3%a8%e6%84%8f%e4%ba%8b%e9%a0%85/</loc>
@@ -30,6 +30,13 @@
 		<lastmod>2024-05-21T16:59:24+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/8306083_R_m.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/2024/05/22/oatly-x6-%e7%87%95%e9%ba%a5%e5%a5%b6-%e4%bd%bf%e7%94%a8%e5%bf%83%e5%be%97/</loc>
+		<lastmod>2024-05-22T14:35:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/image.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
