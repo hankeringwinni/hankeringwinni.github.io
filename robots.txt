@@ -1,4 +1,4 @@
-Sitemap: https://hankeringwinni.github.io/sitemap_index.xml
+Sitemap: https://hankeringwinni.github.io/sitemap.xml
 
 User-agent: *
 Disallow:
