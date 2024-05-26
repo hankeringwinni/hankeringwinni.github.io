@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	〈範例頁面〉的留言	</title>
-	<atom:link href="http://hankeringwinni.github.io/sample-page/feed/?simply_static_page=624" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hankeringwinni.github.io/sample-page/feed/?simply_static_page=624" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 12 May 2024 15:30:43 +0000</lastBuildDate>
